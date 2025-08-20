@@ -7,7 +7,7 @@
 </h1>
 
 <p align="center">
-    <a href="https://www.instagram.com/alexander.softeng/?utm_source=qr&r=nametag" style="text-decoration: none;" target="_blank" >
+    <a href="https://www.instagram.com/auti_code/?utm_source=qr&r=nametag" style="text-decoration: none;" target="_blank" >
         <img  height="45" src="https://cdn2.iconfinder.com/data/icons/social-icons-33/128/Instagram-256.png">
     </a>
 </p>
