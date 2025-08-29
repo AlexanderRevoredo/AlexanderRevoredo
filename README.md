@@ -52,9 +52,6 @@ currently_learning: ["API, Database, Java, Spring"]
               <img src="https://techstack-generator.vercel.app/js-icon.svg" alt="icon" width="80" height="80" />
           </td>
           <td>
-              <img src="https://techstack-generator.vercel.app/github-icon.svg" alt="icon" width="80" height="80" />
-          </td>
-          <td>
               <img src="https://techstack-generator.vercel.app/python-icon.svg" alt="icon" width="60" height="60" />
           </td>
           <td>
