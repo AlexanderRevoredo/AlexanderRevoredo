@@ -16,7 +16,6 @@
 
 ```yaml
 name: Alexander
-Nickname: AutiCode
 located_in: Rio de janeiro, Brazil
 current_job: Full Stack Developer
 education:
